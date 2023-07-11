@@ -307,16 +307,48 @@ display: flex;
 
   }
 
-  .footer{
+ 
+
+.footer{
     background: #111010;
-    width: 1922px;
-    height: 449px;
-
-
-
-
-  }
+    width: 1400px;
+height: 300px;
+    text-align: center;
     
+}
+.footer-title{
+    text-align: center;
+}
+
+.small-description{
+color: rgba(255, 255, 255, 0.90);
+
+font-family: Lato;
+font-size: 14px;
+font-weight: 380;
+
+    
+}
+small.{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+
+}
+
+.shope{
+    color: #FFFFFF66F;
+}
+
+
+
+
+
+
+
+  
     
 
 
